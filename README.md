@@ -33,9 +33,6 @@
 > Cp and target comparision
 <img src="cp.png"/>
 
-> ROC(Receiver Operator Characteristics)
-<img src="roc.png"/>
-
 # Liscence
 ©️ Santosh Thapa 2020
 
